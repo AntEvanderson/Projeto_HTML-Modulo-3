@@ -1,20 +1,12 @@
-# Módulo 3 - Trilha HTML
+# PROJETO HTML
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+Olá sou Evanderson, Estou comerçando minha caminhada no mundo da programação, Sou estudante de ADS.
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+#conecte-se comigo
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-evanderson-de-melo-barros-436438270/)
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntEvanderson)
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
-
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
-
-
-# Projeto_HTML-Modulo-3
+Projeto Formação HTML, usar HTML para desenvolver um Wikipédia. 
+CSS usado só para padronização de Página.
